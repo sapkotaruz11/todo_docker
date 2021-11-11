@@ -1,19 +1,19 @@
 # TODO APP WITH node.js and DOCKER CONTAINER
 
 
-#to run
+to run
 
 
 
-#git clone https://github.com/sapkotaruz11/restproject.git
+git clone https://github.com/sapkotaruz11/restproject.git
 
 
-#install docker 
+install docker 
 
-#docker build . -t todo_app
+docker build . -t todo_app
 
-#cd app
+cd app
 
-#docker-compose up -d
+docker-compose up -d
 
-#check locolhost:3000
+check locolhost:3000
